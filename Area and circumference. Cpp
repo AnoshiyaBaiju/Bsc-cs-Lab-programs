@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+#include<math.h>
+ void main()
+{
+ float a, c, r, pi=3.14;                         #output of this program             
+ printf("Enter the radius:");                    #Enter the radius :5      
+ scanf("%f", &r);
+ a=pi*r*r;
+ printf("The are of circle is %f",a);             #The are of circle is 78.500000
+ c=2*A
+ printf("The circumference of circle is %f",c);   #The circumference of circle is 31.400002
+ getch();
+}
