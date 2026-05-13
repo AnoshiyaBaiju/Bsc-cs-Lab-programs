@@ -1,0 +1,38 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"content="width=device-width Initial scale=1.0">
+<title>CSS Type</title>
+<style>
+/*Internal css*/
+body{background-color:lightgrey;font-family:pas sans-serif;
+h1{color:blue;}
+</style>
+<link rel="stylesheet"href="style. css">
+<!--External CSS>
+</head>
+<body>
+<h1 style="color:red;">Tnline CSS Example </h1>
+<!--Inline CSS-->
+<p>This demonstrates inline, internal and external CSS</p>
+</body>
+</html>
+STYLE. CSS
+  body{
+       background =color. lightgrey";
+       font-family:Arial, sans-serif;
+      }
+  /*Styling the main heading*/
+h1{
+    color:green;
+    font-size:24px;
+    text-align:center;
+  }
+ /*styling paragraph */
+p{
+    color:dark blue;
+    font-size:18px;
+}
+
+
+
