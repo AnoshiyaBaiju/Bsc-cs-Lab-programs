@@ -1,0 +1,6 @@
+A={1,2,3,4}
+B={3,4,5,6}                                    #output of this program 
+print("union:", A|B)                          #union:{1,2,3,4,5,6}
+print("intersection:", A&B)                   #intersection:{3,4}
+print("difference:", A-B)                     #difference:{1,2}
+print("symmetric difference :", A^B)          #symmetric difference:{1,2,5,6}
